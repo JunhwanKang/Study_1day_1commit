@@ -4,6 +4,7 @@ console.dir(h1);
 
 //h1.style.color ="blue";
 
+// js에서 css를 변경하는 것을 선호하지 않는다.
 function handleh1Click(){
     const currentColor = h1.style.color;
     let newColor;
